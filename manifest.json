@@ -1,0 +1,10 @@
+{
+    "name": "Roued Al Khir - Iftar",
+    "short_name": "Iftar",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#f4f8f6",
+    "theme_color": "#16845a",
+    "orientation": "portrait",
+    "icons": []
+}
